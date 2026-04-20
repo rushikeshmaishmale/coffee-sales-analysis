@@ -17,7 +17,7 @@ This project analyzes coffee shop sales data using Python and Power BI to uncove
 - Interactive Filters
 
 ## 📸 Dashboard Preview
-![Dashboard](outputs/dashboard/full_dashboard.png)
+![Dashboard](Dashboard.png)
 
 ## 📈 Key Insights
 - Most payments are done via card
